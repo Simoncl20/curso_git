@@ -21,10 +21,11 @@ for element in lista:
 
 print(lista)
 
+def elevado(x: int)->int:
 
-print("La vida es poco bella")
-print("La vida es horrible")
-print("La vida es lo mejor que hay")
+    return x**2
+
+
 
 
 
