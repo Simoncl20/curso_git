@@ -6,3 +6,9 @@ def otro_funcion(value: int)-> int:
 
     return value * 3
 
+
+def funcion_simon(value: int)->int:
+
+    return value ** 4
+
+

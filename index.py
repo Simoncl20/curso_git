@@ -9,3 +9,9 @@ if variable > segunda_variable:
 
     variable = segunda_variable
 
+elif variable < segunda_variable:
+
+    variable += 1
+
+
+
