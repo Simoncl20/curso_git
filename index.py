@@ -13,5 +13,14 @@ elif variable < segunda_variable:
 
     variable += 1
 
+lista = [1,2,3,4,5,6,7]
+
+for element in lista:
+
+    element += 1
+
+print(lista)
+
+
 
 
