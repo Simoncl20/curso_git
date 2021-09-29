@@ -21,9 +21,14 @@ for element in lista:
 
 print(lista)
 
-def elevado(x: int)->int:
 
-    return x**2
+print("La vida es poco bella")
+print("La vida es horrible")
+print("La vida es lo mejor que hay")
+
+variable3 = "Siempre hay que ser mejores personas"
+variable4 = "Siempre hay que ser peores personas"
+variable45 = "La vida es horrible por que si"
 
 
 
