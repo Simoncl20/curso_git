@@ -23,4 +23,7 @@ print(lista)
 
 
 print("La vida es bella")
+print("La vida es lo mejor que hay")
+
+
 
