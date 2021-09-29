@@ -22,7 +22,7 @@ for element in lista:
 print(lista)
 
 
-print("La vida es bella")
+print("La vida es horrible")
 print("La vida es lo mejor que hay")
 
 
