@@ -27,7 +27,11 @@ print("La vida es horrible")
 print("La vida es lo mejor que hay")
 
 
-simon = "Calderón"
+
+def nueva_funcion(x: int)->float:
+
+    return x-0.4
+
 
 
 
