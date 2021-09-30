@@ -28,9 +28,13 @@ print("La vida es lo mejor que hay")
 
 
 
-def nueva_funcion(x: int)->float:
+def nueva_funcion(x: int, w: int)->float:
 
-    return x-0.4
+    return x*w
+
+
+print("El amor es una magia")
+print("Bibibidibabidibu")
 
 
 
